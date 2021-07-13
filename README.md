@@ -1,8 +1,10 @@
-<br>
-<br>
-    <img src="./img/figma-preview.png" alt="figma preview" width="375">
-<br>
-<br>
+<h1 align="center">
+    <br>
+    <br>
+        <img src="./img/figma-preview.png" alt="figma preview" width="375">
+    <br>
+    <br>
+</h1>
 
 <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma-icon" width="16" height="16"> El **[archivo de Figma](https://www.figma.com/file/gMkZ9NRkEuP0TS5AKvYCdj/cv-mancilla?node-id=44%3A434)** aquí
 
