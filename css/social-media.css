@@ -1,0 +1,10 @@
+.social-media {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 48px 32px 48px;
+}
+
+.icon {
+    margin: 4px;
+}

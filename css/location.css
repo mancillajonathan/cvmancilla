@@ -1,0 +1,11 @@
+.location {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-block-end: 8px;
+}
+span {
+    font-size: 12px;
+    margin-inline-start: 4px;
+    line-height: 18px;
+}

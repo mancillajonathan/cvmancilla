@@ -1,0 +1,9 @@
+.profile {
+    display: block;
+    margin: auto;
+    border-radius: 100%;
+    border: 2px solid var(--white);
+    margin-block-start: 48px;
+    margin-block-end: 8px;
+    background-color: #ebf1ff;
+}

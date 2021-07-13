@@ -1,0 +1,12 @@
+.about-me {
+    font-size: 12px;
+    line-height: 18px;
+    padding-inline-start: 16px;
+    padding-inline-end: 16px;
+    margin-block-end: 24px;
+    text-align: center;
+}
+
+p {
+    margin: 0;
+}

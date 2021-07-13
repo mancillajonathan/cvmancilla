@@ -1,3 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+@import "./wrapper.css";
+@import "./content.css";
+@import "./profile.css";
+@import "./title.css";
+@import "./location.css";
+@import "./about-me.css";
+@import "./social-media.css";
+@import "./contact.css";
+
 :root {
     --fontBase: 'Poppins', sans-serif;
     --headline1: bold 64px/96px var(--fontBase);
@@ -5,11 +15,19 @@
     --headline3: bold 36px/54px var(--fontBase);
     --headline4: bold 24px/36px var(--fontBase);
     --headline5: bold 18px/27px var(--fontBase);
-    --paragraph: 500 18px/28px var(--fontBase);
+    --paragraph: 18px/28px var(--fontBase);
     --smallMedium: 500 14px/21px var(--fontBase);
-    --smallSemibold: 600 14px/21px var(--fontBase);
+    --smallSemibold: 14px/21px var(--fontBase);
     --button: bold 18px/27px var(--fontBase);
-    --gradient: linear-gradient(139.26deg, #6C48D3 -0.62%, #4D4DE2 27.67%, #3778FC 84.31%, #0370FF 101.52%); 
+    --gradient: linear-gradient(139.26deg, #6C48D3 -0.62%, #4D4DE2 27.67%, #3778FC 84.31%, #0370FF 101.52%);
     --black: #141C33;
     --white: #FAFAFA;
+}
+
+body {
+    min-block-size: 100vh;
+    font-family: var(--fontBase);
+    margin: 0;
+    color: var(--white);
+    background: var(--gradient) no-repeat;
 }
