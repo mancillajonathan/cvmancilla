@@ -7,3 +7,10 @@
     margin-block-end: 8px;
     background-color: #ebf1ff;
 }
+
+@media screen and (min-width: 400px) {
+    .profile {
+        width: 140px;
+        height: 140px;
+    }
+}

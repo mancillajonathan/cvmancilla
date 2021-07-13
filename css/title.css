@@ -9,6 +9,17 @@
 
 .position {
     font: var(--smallMedium);
-    margin-block-end: 10px;
+    margin-block-end: 4px;
     margin-block-start: 4px;
+}
+
+
+@media screen and (min-width: 400px) {
+    .name {
+        font: var(--headline3);
+    }
+
+    .position {
+        font: var(--headline5);
+    }
 }

@@ -8,3 +8,10 @@
 .icon {
     margin: 4px;
 }
+
+@media screen and (min-width: 400px) {
+    .icon img {
+        width: 32px;
+        height: 32px;
+    }
+}
