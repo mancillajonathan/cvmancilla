@@ -27,3 +27,15 @@
     color: #3778FC;
     background: var(--white);
 }
+
+@media screen and (min-width: 400px) {
+    .portfolio:hover {
+        opacity: 60%;
+        transition: 0.25s;
+    }
+
+    .curriculum:hover {
+        opacity: 80%;
+        transition: 0.25s;
+    }
+}
